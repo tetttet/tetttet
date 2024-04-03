@@ -15,18 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Turan-Yahya</h1>
-<h3 align="center">A passionate frontend developer from Astana, Kazakhstan</h3>
+<h1 align="center">Turan-Yahya Gazizuly</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tetttet&label=Profile%20views&color=0e75b6&style=flat" alt="tetttet" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tetttet" alt="tetttet" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/qteweto" target="blank"><img src="https://img.shields.io/twitter/follow/qteweto?logo=twitter&style=for-the-badge" alt="qteweto" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/tetttet](https://github.com/tetttet)
-
-- 💬 Ask me about **React, Vue, HTML, CSS, C#, C++, Python, Java, JS, GoLang**
 
 - 📫 How to reach me **fagutlaxabit@gmail.com**
 
